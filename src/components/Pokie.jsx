@@ -1,4 +1,5 @@
 // https://pokeapi.co/
+// How to run react app on GitHub Pages: https://blog.logrocket.com/deploying-react-apps-github-pages/
 import React from "react";
 
 const Pokie = () => {
